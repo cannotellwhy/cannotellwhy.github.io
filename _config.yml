@@ -99,16 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: ""
-    },{
-        title: "简书·BY",
-        href: ""
-    },{
-        title: "Apple",
-        href: ""
-    },{
-        title: "Apple Developer",
+        title: "waitingformyfriend",
         href: ""
     }
 ]
