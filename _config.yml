@@ -81,7 +81,25 @@ ga_track_id: 'UA-131795276-1'            # Format: UA-xxxxxx-xx
 ga_domain: cannotellwhy.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
+# Comment
 
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'cannotellwhy',
+    repo: '_posts',
+    oauth: {
+        client_id: 'a8effdbf099fa349f0f8',
+        client_secret: '8ac5e16c60bcc590813b2b1a5775a105753eba8b',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
+
+hexo g
+hexo d
 
 
 # Featured Tags
