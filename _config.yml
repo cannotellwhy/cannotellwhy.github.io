@@ -60,14 +60,36 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+  #enable: true    #是否开启Gitalk评论
+  #clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+  #clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  #repo: qiubaiying.github.io    #仓库名称
+  #owner: qiubaiying    #github用户名
+  #admin: qiubaiying
+  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
+# comment
+
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1g1740c5pw3j30u010fb2b.jpg)
+
+>图片来源：A Conscious Universe，[Keith Pfeiffer](www.keith-pfeiffer.com)，Freelance Illustrator
+
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'cannotellwhy',
+    repo: '_posts',
+    oauth: {
+        client_id: 'a8effdbf099fa349f0f8',
+        client_secret: '8ac5e16c60bcc590813b2b1a5775a105753eba8b',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
+
 
 
 # 统计
