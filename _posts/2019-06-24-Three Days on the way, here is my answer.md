@@ -2,7 +2,7 @@
 layout:     post
 title:      Mind Travel | Three Days on the way, here is my answer.
 subtitle:   Reach Out To THE World.
-date:       2019-06-15
+date:       2019-06-24
 author:     YY
 header-img: img/15321561394646_.pic_hd.jpg
 catalog: true
