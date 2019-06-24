@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Mind Travel | 山东旅行携带的问题以及想知道的答案
-subtitle:   Reach-out to the world.
+title:      Mind Travel | 山东三天，我带着的问题。
+subtitle:   Reach Out To THE World.
 date:       2019-06-15
 author:     YY
 header-img: img/cover_forgetten2.jpg
@@ -39,6 +39,8 @@ tags:
 第三大option是，去互联网去外企，从事一些有闲钱且有些闲时的职业。
 
 其实还有第四大option，比如开始创业。
+
+其实还有一个，就是老子不工作，就浪啊荡的。
 
 对于工种，我擅长的是营销，但是弱项是分析这块，所以最近也在看一些工具书和视频。
 
