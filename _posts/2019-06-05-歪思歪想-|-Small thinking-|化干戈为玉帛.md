@@ -27,3 +27,10 @@ tags:
 就突然把这三件事情想到一起了，都是把劣势或是无功无过的动作化为优势，有的伤害了消费者，有的却成为了他们心头的乐趣。所以手段也是，在有些人那是干戈，在有些人那就是玉帛。
 
 cover:[Brendon Burton, Poland Artist：This must be the place.](www.brendonburton.com)
+
+👌
+
+你好，我是歪歪。
+
+如果你莫名其妙看到我的文章并且想和我聊天的话，欢迎给我发邮件：lastsoulonearth@hotmail.com。它可能会在里面躺一会儿。提前说一句，很高兴认识你。
+
