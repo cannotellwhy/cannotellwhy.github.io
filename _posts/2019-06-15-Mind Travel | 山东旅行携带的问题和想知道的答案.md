@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Mind Travel | 山东三天，我带着的问题。
+title:      Mind Travel | Three Days on the way, here is my question.
 subtitle:   Reach Out To THE World.
 date:       2019-06-15
 author:     YY
