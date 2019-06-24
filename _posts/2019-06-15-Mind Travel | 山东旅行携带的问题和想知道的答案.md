@@ -64,7 +64,7 @@ tags:
 
 下篇我将回答这些问题！
 
-cover:[Brendon Burton, Poland Artist：This must be the place.](www.brendonburton.com)
+cover：[Brendon Burton, Poland Artist：This must be the place.](www.brendonburton.com)
 
 👌
 
