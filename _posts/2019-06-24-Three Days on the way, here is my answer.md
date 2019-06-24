@@ -4,7 +4,7 @@ title:      Mind Travel | Three Days on the way, here is my answer.
 subtitle:   Reach Out To THE World.
 date:       2019-06-15
 author:     YY
-header-img: img/15311561394344_.pic_hd.jpg
+header-img: img/15311561394343_.pic_hd.jpg
 catalog: true
 tags:
     - Travel
