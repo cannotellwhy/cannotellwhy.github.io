@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      11月近期自我汇报
+title:      Allons travailler!
 subtitle:   来自一个渴望经历冲击波的女孩
 date:       2019-11-30
 author:     YY
